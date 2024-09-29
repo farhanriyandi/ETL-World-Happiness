@@ -1,0 +1,6 @@
+requests==2.32.3
+pandas==2.1.4
+beautifulsoup4==4.12.3
+lxml
+SQLAlchemy==2.0.21
+psycopg2-binary==2.9.9
