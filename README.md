@@ -70,6 +70,9 @@ Select the `DAGs menu > etl_countries_happiness` and trigger the DAG.
 ### 8. Postgres Table Result
 ![image](https://github.com/user-attachments/assets/57880e80-c961-41e2-9dc6-38813cce3885)
 
+## 9. Visualization
+The visualizations were created using Looker Studio, which provides insights into world happiness report. You can view the visualization [here](https://www.youtube.com/watch?v=OLXkGB7krGo).
+
 
 
 
