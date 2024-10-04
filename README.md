@@ -1,7 +1,7 @@
 # ETL-World-Happiness
 
 ## Overview
-The World Happiness project was created to implement the ETL (Extract, Transform, Load) process using a data pipeline through web scraping. The extracted data includes national happiness rankings along with the continent of each country, which is then transformed and loaded into PostgreSQL. The following is the website that will be scraping:
+The World Happiness project was created to implement the ETL (Extract, Transform, Load) process using a data pipeline through web scraping. The extracted data includes national happiness rankings along with the continent of each country, which is then transformed and loaded into PostgreSQL. The following is the website that will be scraped:
 * https://kids.kiddle.co/List_of_countries_by_continents
 * https://en.wikipedia.org/wiki/World_Happiness_Report
 
